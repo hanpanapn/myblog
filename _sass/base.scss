@@ -70,6 +70,14 @@ header {
     justify-content: space-between;
     align-items: center;
     width: 100%;
+   
+   .menu_items{
+      a{
+         h2{
+         color:#c5bbbb;
+         }
+      }
+   }
 }
 
 .header-link {
