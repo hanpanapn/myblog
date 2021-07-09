@@ -1,4 +1,3 @@
-<<<<<<< HEAD:_posts/2017-12-12-Sample-Page.md
 ---
 title: Sample Page
 published: true
@@ -123,6 +122,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-=======
-[Link to another page](./another-page.html).
->>>>>>> a5481f0685fa2159a226258cca0e78ebff6cac8b:index.md

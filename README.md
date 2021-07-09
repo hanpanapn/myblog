@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The Hacker-Blog theme
 
 *Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
@@ -113,7 +112,3 @@ Edit `404.md`
 ## License
 
 CC0 1.0 Universal
-=======
-# hacker
-Hacker is a Jekyll theme for GitHub Pages
->>>>>>> a5481f0685fa2159a226258cca0e78ebff6cac8b
