@@ -24,3 +24,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+![image](https://user-images.githubusercontent.com/15027167/125121041-ebbcf180-e125-11eb-916e-80be41120db3.png)
+
