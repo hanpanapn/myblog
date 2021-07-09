@@ -9,7 +9,7 @@ layout: default
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
           </h2>
         
-          <p>{{ post.content | strip_html | truncatewords:30 }}</p>
+          <p style="color:#c5c1c1;">{{ post.content | strip_html | truncatewords:30 }}</p>
       </li>
     {% endfor %}
 </ul>
