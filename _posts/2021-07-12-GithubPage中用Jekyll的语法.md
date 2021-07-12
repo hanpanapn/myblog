@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用Github搭建自己的博客支持（自定义域名访问）
+title: GithubPage中用Jekyll的语法
 tags: 博客搭建 GithubPages Github
 ---
 
