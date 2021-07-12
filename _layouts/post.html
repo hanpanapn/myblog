@@ -6,6 +6,11 @@ layout: default
   <h2 style="font-size: 24px; text-align: center; margin-bottom: 32px;">{{ page.title }} 
    <time style="font-size: 14px; " datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   </h2>
- 
+   <!--script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+			</script>
+			<!-- script pointing to busuanzi.js -->
+			<span id="busuanzi_container_page_pv">
+			阅读量<span id="busuanzi_value_page_pv"></span>次
+			</span>
   {{ content }}
 </article>
