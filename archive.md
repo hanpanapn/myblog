@@ -9,7 +9,7 @@ title: 一个入坑物联网开发的前端工程师 | 擅长前端开发，了�
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
     {% capture firstpostyear %}{{ site.posts[0].date | date: '%Y' }}{% endcapture %}
     {% if currentyear == firstpostyear %}
-        <h3>This year's posts</h3>
+        <h3>最近发布</h3>
     {% else %}  
         <h3>{{ firstpostyear }}</h3>
     {% endif %}
